@@ -1,4 +1,6 @@
-# BDIX Installation
+# BDIX Installation and Proxy Configuration Update
+
+## Install BDIX
 
 To install BDIX, run the following command in your terminal:
 
